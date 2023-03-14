@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dlwlrma
+ *
+ */
+module TestVariableInputs {
+}
