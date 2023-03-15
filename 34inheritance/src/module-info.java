@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mediel
+ *
+ */
+module inheritanceTest {
+}
