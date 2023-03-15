@@ -19,7 +19,7 @@ public class Main {
 		//shortcut key type sysout then press ctrl+space
 		//zoom out = ctrl+minuskey vice versa for zoom in
 		
-		/**https://www.youtube.com/watch?v=xk4_1vDrzzo**/
+		/*Bro Code*/
 		//comment1
 		/*comment2
 		 *comment2
