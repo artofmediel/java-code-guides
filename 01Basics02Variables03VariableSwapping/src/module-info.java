@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author dlwlrma
+ * @author mediel
  *
  */
 module Test1 {
